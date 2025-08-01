@@ -1,0 +1,121 @@
+Here is a **complete and properly structured summary** of the JIRA ticket you shared, with **"Flexcube" replaced by "Cuboid"** throughout and **no details missed**:
+
+---
+
+### **JIRA Ticket Summary: BANKING\_CrossAppBANKING-233676**
+
+**Project:** BANKING\_CrossApp
+**Title:** Flex Canada - Bulk DCC Account Branch Migration – Custody
+**Status:** Done
+**Type:** Story
+**Priority:** Medium
+**Fix Version:** 2025\_Core\_February
+**Affects Version:** None
+**Component:** Cuboid
+**Labels:** CANADA, FLEXLATAM
+**Epic Link:** COREQ - Canada - Bulk DCC Account Branch Migration
+**Scrum Team:** COREQ\_COREDDANAM\_CANADA\_T2\_KB
+**Agile Release Train:** COREQACC\_NAM\_ART
+**Primary Application:** Cuboid Canada (173754)
+**QA Required:** Yes
+**NFT Required:** Not impacted / NFR not available
+**Ops Validation Required:** No
+**Acceptance Test Status:** Pass
+**Latest Comment:** Acceptance completed
+**Personally Identifiable Data:** No
+
+---
+
+### **Acceptance Criteria**
+
+Cuboid should be able to transfer accounts in bulk.
+
+---
+
+### **Business Requirement**
+
+**As a Flexcanada Business User**, I want **Cuboid**:
+
+* To allow the system to add bulk accounts in the branch transfer functionality screen.
+* Because in the event of branch transfer, SWIFT preferences are not automatically sent to GSD.
+* There’s currently a manual activity to remove and re-add preferences post-migration to trigger SWIFT preferences.
+* As bulk transfer is approaching, this overhead is unsustainable.
+* Options should be explored to **automate SWIFT preferences**.
+
+**So that** the **Custody business** can successfully achieve **bulk account branch transfers**.
+
+---
+
+### **CQE Team Validation Requirements**
+
+1. Check the account branch transfer screen and confirm the maximum number of accounts allowed as input.
+2. Validate that accounts from different account classes can be input in the same request.
+3. Check if the EOD (End of Day) has any impact on the transfer.
+4. Ensure all accounts starting BOD (Beginning of Day) are migrated to branch 157.
+5. Validate account refresh sent to different PP’s.
+6. Ensure account refresh is sent to SECORE and transactions flow successfully through Cuboid.
+7. Customer data (via batch file) and adhoc files must be sent to SECORE.
+8. Validate GCE Sweeps and Citidirect access.
+
+---
+
+### **Open Points for Project**
+
+* GCE/SECORE
+* Impacted partners and contacts: Excel with contacts is attached
+
+---
+
+### **Benefit Hypothesis**
+
+* Not explicitly defined (represented as a dot `•` in the text)
+
+---
+
+### **Out of Scope**
+
+* Not defined
+
+---
+
+### **NFR/NFT**
+
+* N/A
+
+---
+
+### **Dependencies**
+
+* N/A
+
+---
+
+### **Things to Consider**
+
+* Certain account classes are restricted in branch code 157. Transfers to this branch will be rejected for these cases.
+* Ensure that the account class is not restricted in the new branch (157) before proceeding.
+
+**Restricted Combinations:**
+
+| BUSINESS\_GROUP | ACCOUNT\_CLASS | BRANCH\_CODE |
+| --------------- | -------------- | ------------ |
+| DCC             | DS2021         | 157          |
+| DCC             | DS2082         | 157          |
+| DCC             | DS2084         | 157          |
+| DCC             | DS2021         | 157          |
+
+---
+
+### **Customer Data Issue**
+
+* During analysis, 7 customers had their **local branch as 155**.
+* This field **cannot be updated from the frontend**.
+
+**Resolution Options:**
+
+1. Ignore the field if unused.
+2. Create a new base number in 157 and perform customer transfer.
+
+---
+
+Let me know if you'd like this turned into a Word or PDF document or plugged into your frontend/backend flow!

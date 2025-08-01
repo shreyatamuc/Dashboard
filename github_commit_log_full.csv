@@ -1,0 +1,201 @@
+S. No.,Commit Hash,Author Name,Author Email,Date,Commit Message,Files Changed,Insertions,Deletions,Commit URL
+1,7b6b8677683a44593a57810a9844f1cd19ee01e8,Shreya Dhuri,shreya@example.com,2025-07-05 02:03:20,Improve performance,3,42,3,https://github.com/user/repo/commit/7b6b8677683a44593a57810a9844f1cd19ee01e8
+2,823b7b6f5b29766e62eb9dd05ffa6d01053a99f9,Bob Lee,bob@example.com,2025-06-13 01:03:20,Optimize imports,3,65,19,https://github.com/user/repo/commit/823b7b6f5b29766e62eb9dd05ffa6d01053a99f9
+3,9d2c62c752180e58e3b553387ba25e7d4e0031ab,Alice Johnson,alice@example.com,2024-09-10 21:03:20,Add user authentication,1,31,26,https://github.com/user/repo/commit/9d2c62c752180e58e3b553387ba25e7d4e0031ab
+4,74f15b5cc178d64c44bc0b22812ff440a5e3a518,Bob Lee,bob@example.com,2025-01-28 13:03:20,Remove deprecated code,5,14,9,https://github.com/user/repo/commit/74f15b5cc178d64c44bc0b22812ff440a5e3a518
+5,5cd46cc4d3ad6d09897288d1da9da02f581faa63,Shreya Dhuri,shreya@example.com,2024-10-26 04:03:20,Add user authentication,4,51,28,https://github.com/user/repo/commit/5cd46cc4d3ad6d09897288d1da9da02f581faa63
+6,1037998f5da010428bb480ef908cbf20bb954aac,Nina Patel,nina@example.com,2025-04-15 10:03:20,Update README,4,50,19,https://github.com/user/repo/commit/1037998f5da010428bb480ef908cbf20bb954aac
+7,c566eafbce3fff6a102e5efbdfebc8c501b3e4b5,Alice Johnson,alice@example.com,2025-07-19 15:03:20,Initial commit,2,4,17,https://github.com/user/repo/commit/c566eafbce3fff6a102e5efbdfebc8c501b3e4b5
+8,486e3d71ff31a37d1258872aaa4660616175c08c,John Smith,john@example.com,2025-01-15 01:03:20,Fix bug in login,4,47,1,https://github.com/user/repo/commit/486e3d71ff31a37d1258872aaa4660616175c08c
+9,707093f6d278c4103bab263e56d1a10186cd18c0,Nina Patel,nina@example.com,2024-08-23 15:03:20,Initial commit,3,37,14,https://github.com/user/repo/commit/707093f6d278c4103bab263e56d1a10186cd18c0
+10,f431c3335a07bfac81f2314ef4a52d692a8dca0d,Nina Patel,nina@example.com,2025-02-25 15:03:20,Optimize imports,2,21,24,https://github.com/user/repo/commit/f431c3335a07bfac81f2314ef4a52d692a8dca0d
+11,96155fd88a7311cc151ca620b3796a5b8ec52c90,Bob Lee,bob@example.com,2025-02-24 05:03:20,Optimize imports,1,92,15,https://github.com/user/repo/commit/96155fd88a7311cc151ca620b3796a5b8ec52c90
+12,c99e74c7f93fb824768903174a9f2fd83e136679,Shreya Dhuri,shreya@example.com,2024-12-10 17:03:20,Refactor code,4,62,18,https://github.com/user/repo/commit/c99e74c7f93fb824768903174a9f2fd83e136679
+13,ff93a0bd3136425924ab5da4d3ae1019d461e353,Shreya Dhuri,shreya@example.com,2025-07-24 04:03:20,Fix bug in login,2,94,10,https://github.com/user/repo/commit/ff93a0bd3136425924ab5da4d3ae1019d461e353
+14,9f8172c9bc0ce21f34755a50d82d0e46694b087b,John Smith,john@example.com,2025-03-30 07:03:20,Optimize imports,1,97,5,https://github.com/user/repo/commit/9f8172c9bc0ce21f34755a50d82d0e46694b087b
+15,d6b0bd754d7585f0250651b06ed2b7e24fb32402,Nina Patel,nina@example.com,2025-05-05 08:03:20,Refactor code,4,90,37,https://github.com/user/repo/commit/d6b0bd754d7585f0250651b06ed2b7e24fb32402
+16,5da83a56ac36f21de06afd9e572c708a1c45a14f,Shreya Dhuri,shreya@example.com,2025-04-07 23:03:20,Fix bug in login,3,25,4,https://github.com/user/repo/commit/5da83a56ac36f21de06afd9e572c708a1c45a14f
+17,92e6b9ed8be837313a53f961fb35c0ac61d60c0a,Nina Patel,nina@example.com,2025-07-11 23:03:20,Improve performance,5,99,24,https://github.com/user/repo/commit/92e6b9ed8be837313a53f961fb35c0ac61d60c0a
+18,f515e77db41fbb49ab6c3e623c3d4119187c21dc,Nina Patel,nina@example.com,2025-02-06 07:03:20,Add comments,2,34,48,https://github.com/user/repo/commit/f515e77db41fbb49ab6c3e623c3d4119187c21dc
+19,abdca5b6124117135df5283840ddc27963e84ee0,Alice Johnson,alice@example.com,2025-06-28 03:03:20,Update README,1,67,44,https://github.com/user/repo/commit/abdca5b6124117135df5283840ddc27963e84ee0
+20,a7353c500f663a01497948bab8f7b9775fd4921f,Bob Lee,bob@example.com,2024-08-06 21:03:20,Add comments,4,19,8,https://github.com/user/repo/commit/a7353c500f663a01497948bab8f7b9775fd4921f
+21,55d1c5bafb81b32a9e7998f4b8ab395185650c48,John Smith,john@example.com,2024-08-17 21:03:20,Initial commit,4,54,42,https://github.com/user/repo/commit/55d1c5bafb81b32a9e7998f4b8ab395185650c48
+22,a87a09c439031d5eb4f7a54675a0e091e1fb9c4d,Alice Johnson,alice@example.com,2025-04-15 22:03:20,Optimize imports,3,22,8,https://github.com/user/repo/commit/a87a09c439031d5eb4f7a54675a0e091e1fb9c4d
+23,9bba28004df43812862a961c0a6d98eaddc61b62,Alice Johnson,alice@example.com,2025-03-02 10:03:20,Fix typo,5,71,42,https://github.com/user/repo/commit/9bba28004df43812862a961c0a6d98eaddc61b62
+24,7a04dcfe6f40c5b5fe0d7ee886c33f80c431a0cb,Bob Lee,bob@example.com,2024-08-01 10:03:20,Refactor code,5,50,42,https://github.com/user/repo/commit/7a04dcfe6f40c5b5fe0d7ee886c33f80c431a0cb
+25,ef9d634e8ab4f5adb4fdddecbb7de486606caf35,Bob Lee,bob@example.com,2025-03-17 04:03:20,Update README,4,66,2,https://github.com/user/repo/commit/ef9d634e8ab4f5adb4fdddecbb7de486606caf35
+26,fb4092c360d8e04f97fc73466149df049270e39f,Alice Johnson,alice@example.com,2024-12-18 08:03:20,Improve performance,1,55,19,https://github.com/user/repo/commit/fb4092c360d8e04f97fc73466149df049270e39f
+27,829f9dabdd89f96da2314825089ab58632fcefaf,John Smith,john@example.com,2024-11-26 11:03:20,Add user authentication,4,63,11,https://github.com/user/repo/commit/829f9dabdd89f96da2314825089ab58632fcefaf
+28,197232e0e1d1ea9ffe0e740e0dd782606aa90328,Alice Johnson,alice@example.com,2024-09-08 17:03:20,Optimize imports,4,45,30,https://github.com/user/repo/commit/197232e0e1d1ea9ffe0e740e0dd782606aa90328
+29,1e58896ed8ca64988aab00cc5eda99208e71aa04,Bob Lee,bob@example.com,2025-04-25 13:03:20,Add comments,5,90,28,https://github.com/user/repo/commit/1e58896ed8ca64988aab00cc5eda99208e71aa04
+30,deac3e3edd8d680a08fef1dfc3f8b96fae7f0754,Bob Lee,bob@example.com,2024-11-06 05:03:20,Add user authentication,1,41,47,https://github.com/user/repo/commit/deac3e3edd8d680a08fef1dfc3f8b96fae7f0754
+31,9d0c9a79b03b6ea9d2afbc77011dc4238ff1b225,Alice Johnson,alice@example.com,2025-03-03 00:03:20,Remove deprecated code,5,96,32,https://github.com/user/repo/commit/9d0c9a79b03b6ea9d2afbc77011dc4238ff1b225
+32,150a2de41a44c65175e14d5b8326b0f773707eaa,Shreya Dhuri,shreya@example.com,2025-07-17 09:03:20,Refactor code,3,94,42,https://github.com/user/repo/commit/150a2de41a44c65175e14d5b8326b0f773707eaa
+33,b05d45264b19a53b9d97207a330b3adae15b6427,Bob Lee,bob@example.com,2024-08-05 15:03:20,Fix bug in login,5,64,20,https://github.com/user/repo/commit/b05d45264b19a53b9d97207a330b3adae15b6427
+34,06546fece8ef8b6a089778aa10d1e655d2046e29,John Smith,john@example.com,2025-01-12 00:03:20,Add comments,1,18,6,https://github.com/user/repo/commit/06546fece8ef8b6a089778aa10d1e655d2046e29
+35,047558610af4c65fd1adeb2f92b0979304465835,Shreya Dhuri,shreya@example.com,2024-08-08 11:03:20,Update README,2,62,18,https://github.com/user/repo/commit/047558610af4c65fd1adeb2f92b0979304465835
+36,30f6865e54b950d84dec778dfb74e557497a49e9,Alice Johnson,alice@example.com,2025-03-30 18:03:20,Update README,3,40,19,https://github.com/user/repo/commit/30f6865e54b950d84dec778dfb74e557497a49e9
+37,3dcaa2ccb533f3e12820496910f0759c5e3d8d5a,Alice Johnson,alice@example.com,2025-01-07 04:03:20,Add user authentication,4,76,0,https://github.com/user/repo/commit/3dcaa2ccb533f3e12820496910f0759c5e3d8d5a
+38,737b23b87849d6e6ad038c42de1d38805633f953,Bob Lee,bob@example.com,2025-05-12 16:03:20,Update README,2,35,20,https://github.com/user/repo/commit/737b23b87849d6e6ad038c42de1d38805633f953
+39,7610b961bfb9d2e275becbe5372d5cc17e01f554,John Smith,john@example.com,2025-02-13 01:03:20,Improve performance,3,8,43,https://github.com/user/repo/commit/7610b961bfb9d2e275becbe5372d5cc17e01f554
+40,2e9e3011cd46627c5bde028e58a0328e3d579fe5,Alice Johnson,alice@example.com,2025-02-04 22:03:20,Add user authentication,4,12,4,https://github.com/user/repo/commit/2e9e3011cd46627c5bde028e58a0328e3d579fe5
+41,276bdd1cebbcaf10d6468c9cdd911dff025f9b96,Shreya Dhuri,shreya@example.com,2025-05-20 20:03:20,Add comments,5,1,23,https://github.com/user/repo/commit/276bdd1cebbcaf10d6468c9cdd911dff025f9b96
+42,78fc76d142e97a1038bd56bc90e768acac387e6b,Bob Lee,bob@example.com,2025-04-08 14:03:20,Fix bug in login,4,48,22,https://github.com/user/repo/commit/78fc76d142e97a1038bd56bc90e768acac387e6b
+43,fad46ac279d9e6f918f0b1812bd3ae86b9a5e895,Nina Patel,nina@example.com,2025-07-23 00:03:20,Improve performance,4,12,42,https://github.com/user/repo/commit/fad46ac279d9e6f918f0b1812bd3ae86b9a5e895
+44,aec7f3fdf6a8bf2a3cd220587246401aa459d646,Bob Lee,bob@example.com,2024-10-25 08:03:20,Improve performance,1,90,7,https://github.com/user/repo/commit/aec7f3fdf6a8bf2a3cd220587246401aa459d646
+45,1babae4b631304e1973f80b9f6be2136e5a9212b,John Smith,john@example.com,2024-11-12 03:03:20,Remove deprecated code,1,95,42,https://github.com/user/repo/commit/1babae4b631304e1973f80b9f6be2136e5a9212b
+46,2fd5b67cb93a236e6bbf8fd495814e88b2afd21f,John Smith,john@example.com,2025-02-05 10:03:20,Add user authentication,2,15,12,https://github.com/user/repo/commit/2fd5b67cb93a236e6bbf8fd495814e88b2afd21f
+47,fe656ee8d0b0a050d33806aadd22f1f0c8226442,Nina Patel,nina@example.com,2024-12-13 19:03:20,Initial commit,4,31,23,https://github.com/user/repo/commit/fe656ee8d0b0a050d33806aadd22f1f0c8226442
+48,33dbdf97db95c8c4de2ff06137ec08d5324ebacc,Shreya Dhuri,shreya@example.com,2024-10-01 23:03:20,Optimize imports,3,40,38,https://github.com/user/repo/commit/33dbdf97db95c8c4de2ff06137ec08d5324ebacc
+49,fcdf2d3d005fdaf4f056fcb617b15aa0f92a510d,Bob Lee,bob@example.com,2024-10-08 10:03:20,Initial commit,1,58,30,https://github.com/user/repo/commit/fcdf2d3d005fdaf4f056fcb617b15aa0f92a510d
+50,1f58055b4e98a4eaa6ffd786327ff179ca12fc23,Bob Lee,bob@example.com,2025-06-23 00:03:20,Initial commit,3,41,26,https://github.com/user/repo/commit/1f58055b4e98a4eaa6ffd786327ff179ca12fc23
+51,f6f6149e1b289a17a60065dfacf3ccf6cf21cb76,Shreya Dhuri,shreya@example.com,2025-06-19 10:03:20,Fix typo,1,19,5,https://github.com/user/repo/commit/f6f6149e1b289a17a60065dfacf3ccf6cf21cb76
+52,4aed597e9f7d54d76aeadf656bc88a97b502cab0,Nina Patel,nina@example.com,2025-04-04 22:03:20,Fix bug in login,5,87,17,https://github.com/user/repo/commit/4aed597e9f7d54d76aeadf656bc88a97b502cab0
+53,762b567c0dbe1a2a14705ff4f2d7f2d2fbe45b83,Shreya Dhuri,shreya@example.com,2025-02-06 22:03:20,Fix typo,2,82,41,https://github.com/user/repo/commit/762b567c0dbe1a2a14705ff4f2d7f2d2fbe45b83
+54,5234382bd69a023bb63cb159fa513dc97161f307,Shreya Dhuri,shreya@example.com,2025-07-06 15:03:20,Fix typo,3,56,28,https://github.com/user/repo/commit/5234382bd69a023bb63cb159fa513dc97161f307
+55,ddd52f093b8b56b60b04d8e986f6ee111706a4db,Alice Johnson,alice@example.com,2024-09-02 15:03:20,Add user authentication,4,50,11,https://github.com/user/repo/commit/ddd52f093b8b56b60b04d8e986f6ee111706a4db
+56,a9a5d031f24412ec9f90e5a6330fe88794ea24ca,Alice Johnson,alice@example.com,2025-04-13 21:03:20,Improve performance,2,76,8,https://github.com/user/repo/commit/a9a5d031f24412ec9f90e5a6330fe88794ea24ca
+57,354141d6899b25d2b5240820f176958e95b71884,Shreya Dhuri,shreya@example.com,2025-05-18 03:03:20,Update README,5,9,39,https://github.com/user/repo/commit/354141d6899b25d2b5240820f176958e95b71884
+58,bd824e284cff235fded8a2c52acae2221e4f239a,Alice Johnson,alice@example.com,2024-10-05 00:03:20,Add user authentication,4,94,44,https://github.com/user/repo/commit/bd824e284cff235fded8a2c52acae2221e4f239a
+59,9e31f1810101abbaf66797e1b6f9b05f47da8356,Bob Lee,bob@example.com,2025-04-19 02:03:20,Remove deprecated code,5,51,9,https://github.com/user/repo/commit/9e31f1810101abbaf66797e1b6f9b05f47da8356
+60,8f79ae91342a6eb61326ad256edb7ef04b773b9b,Alice Johnson,alice@example.com,2025-03-11 14:03:20,Refactor code,4,2,36,https://github.com/user/repo/commit/8f79ae91342a6eb61326ad256edb7ef04b773b9b
+61,da3e1b76666e5260d65410cefe82f1804730b129,Shreya Dhuri,shreya@example.com,2024-11-02 10:03:20,Optimize imports,2,39,33,https://github.com/user/repo/commit/da3e1b76666e5260d65410cefe82f1804730b129
+62,09d13210aadd6b635fe2e45de2019e32d9acb5c9,John Smith,john@example.com,2024-09-07 12:03:20,Fix typo,2,29,33,https://github.com/user/repo/commit/09d13210aadd6b635fe2e45de2019e32d9acb5c9
+63,301186ec50c33bd1f8c0744f91acef3fca6dfe2c,Shreya Dhuri,shreya@example.com,2025-03-26 00:03:20,Add comments,5,63,5,https://github.com/user/repo/commit/301186ec50c33bd1f8c0744f91acef3fca6dfe2c
+64,dcdfbb5bb5659ad92ec88f88844ad80e7a323170,Alice Johnson,alice@example.com,2024-09-29 18:03:20,Fix typo,5,0,27,https://github.com/user/repo/commit/dcdfbb5bb5659ad92ec88f88844ad80e7a323170
+65,1120e3b1705ed69e0a50ffd269575422ad2570ef,Alice Johnson,alice@example.com,2025-05-13 20:03:20,Optimize imports,2,64,42,https://github.com/user/repo/commit/1120e3b1705ed69e0a50ffd269575422ad2570ef
+66,0c1b334b4efb063c3327c67e604cb7d7b96d0adc,Alice Johnson,alice@example.com,2024-10-08 21:03:20,Update README,2,47,35,https://github.com/user/repo/commit/0c1b334b4efb063c3327c67e604cb7d7b96d0adc
+67,8d215b621ab655cbba566ed59ac7f814bb81c524,John Smith,john@example.com,2025-07-27 08:03:20,Optimize imports,2,73,28,https://github.com/user/repo/commit/8d215b621ab655cbba566ed59ac7f814bb81c524
+68,87612c1c02bbdc33f66e615711e5688751d368bf,Shreya Dhuri,shreya@example.com,2025-01-31 05:03:20,Fix typo,1,37,27,https://github.com/user/repo/commit/87612c1c02bbdc33f66e615711e5688751d368bf
+69,5ab675e7e35a10960567b451aed4dc27e25afd9b,Alice Johnson,alice@example.com,2025-02-25 05:03:20,Add user authentication,4,93,9,https://github.com/user/repo/commit/5ab675e7e35a10960567b451aed4dc27e25afd9b
+70,5e260e3491d9c092f5567e5ed160d7125e9be63e,Nina Patel,nina@example.com,2024-08-20 22:03:20,Fix bug in login,3,75,24,https://github.com/user/repo/commit/5e260e3491d9c092f5567e5ed160d7125e9be63e
+71,17f92bb6d41c92d20207b4656d6dddc0a52f39bb,Alice Johnson,alice@example.com,2025-02-28 18:03:20,Improve performance,5,19,43,https://github.com/user/repo/commit/17f92bb6d41c92d20207b4656d6dddc0a52f39bb
+72,79d8413dcadb21f025e9a654176d86ca07db77c1,Alice Johnson,alice@example.com,2024-11-28 02:03:20,Update README,3,94,29,https://github.com/user/repo/commit/79d8413dcadb21f025e9a654176d86ca07db77c1
+73,f7f8361b6fa82b264c957215cd877a1324dd3b5c,Alice Johnson,alice@example.com,2024-11-21 04:03:20,Add user authentication,1,30,14,https://github.com/user/repo/commit/f7f8361b6fa82b264c957215cd877a1324dd3b5c
+74,4aaa5f61df3e3643afc47dca90ec557b3176f4d1,Alice Johnson,alice@example.com,2025-07-23 06:03:20,Optimize imports,2,42,19,https://github.com/user/repo/commit/4aaa5f61df3e3643afc47dca90ec557b3176f4d1
+75,4637c026cbdcd623481eec321e2e356868a49edf,John Smith,john@example.com,2025-05-19 15:03:20,Add comments,5,16,32,https://github.com/user/repo/commit/4637c026cbdcd623481eec321e2e356868a49edf
+76,8c7e18401c670430ef5c24e2adc74b8cb5eb3a9e,Shreya Dhuri,shreya@example.com,2024-08-11 09:03:20,Add user authentication,5,46,12,https://github.com/user/repo/commit/8c7e18401c670430ef5c24e2adc74b8cb5eb3a9e
+77,6795e0923ea3dc497f25f8220125ef3aebfbc995,Nina Patel,nina@example.com,2025-06-03 08:03:20,Update README,2,44,13,https://github.com/user/repo/commit/6795e0923ea3dc497f25f8220125ef3aebfbc995
+78,5fb18031f995c645a04b1b0a855027c19fe9f558,Alice Johnson,alice@example.com,2025-06-03 15:03:20,Update README,1,44,33,https://github.com/user/repo/commit/5fb18031f995c645a04b1b0a855027c19fe9f558
+79,c05b326b95556352f385fc2a000cc5e4d01fb119,John Smith,john@example.com,2025-05-08 22:03:20,Update README,2,45,26,https://github.com/user/repo/commit/c05b326b95556352f385fc2a000cc5e4d01fb119
+80,5de2084c82c4d58c937c731a5537eee16a305859,John Smith,john@example.com,2024-08-24 23:03:20,Fix bug in login,5,82,46,https://github.com/user/repo/commit/5de2084c82c4d58c937c731a5537eee16a305859
+81,70992f87269ee20ee6bc72074ac88fec6926ecb0,Bob Lee,bob@example.com,2025-02-26 18:03:20,Update README,2,70,14,https://github.com/user/repo/commit/70992f87269ee20ee6bc72074ac88fec6926ecb0
+82,542dd86d247389acf29b2887ff5075c1b9b09772,Alice Johnson,alice@example.com,2025-03-31 18:03:20,Fix typo,3,33,23,https://github.com/user/repo/commit/542dd86d247389acf29b2887ff5075c1b9b09772
+83,0244b40ea7e91b91d5c1afdaab999ef0fb3a4c11,John Smith,john@example.com,2024-08-17 06:03:20,Fix typo,2,80,8,https://github.com/user/repo/commit/0244b40ea7e91b91d5c1afdaab999ef0fb3a4c11
+84,9176728b547424afabb7041944b59747095429be,Alice Johnson,alice@example.com,2025-04-20 22:03:20,Fix bug in login,4,10,34,https://github.com/user/repo/commit/9176728b547424afabb7041944b59747095429be
+85,53f34073e151a15c97f25c6f55f12a72f70352f9,Nina Patel,nina@example.com,2024-12-31 15:03:20,Add user authentication,1,32,41,https://github.com/user/repo/commit/53f34073e151a15c97f25c6f55f12a72f70352f9
+86,524c2151fe75cc59b78c5c80fa96fac0e863c3ca,Bob Lee,bob@example.com,2024-09-11 06:03:20,Add user authentication,2,34,25,https://github.com/user/repo/commit/524c2151fe75cc59b78c5c80fa96fac0e863c3ca
+87,416d42822631ab240ee522f395adf561b4542a34,Nina Patel,nina@example.com,2025-06-24 15:03:20,Initial commit,4,11,36,https://github.com/user/repo/commit/416d42822631ab240ee522f395adf561b4542a34
+88,8ed8ca210d56d30b5e2d86a414c1c0d6a1ac34a3,Nina Patel,nina@example.com,2025-06-22 12:03:20,Update README,2,72,29,https://github.com/user/repo/commit/8ed8ca210d56d30b5e2d86a414c1c0d6a1ac34a3
+89,257b8ca2f093173b1be3f2a31d8a7ed6137e2c46,Alice Johnson,alice@example.com,2025-06-16 04:03:20,Fix bug in login,5,20,6,https://github.com/user/repo/commit/257b8ca2f093173b1be3f2a31d8a7ed6137e2c46
+90,ae57cd9f183235c1ea8c3141d676671a7a029758,Bob Lee,bob@example.com,2025-03-24 13:03:20,Add user authentication,4,35,15,https://github.com/user/repo/commit/ae57cd9f183235c1ea8c3141d676671a7a029758
+91,944b8f096278b846c54aeb6870fc11d79c98def5,Shreya Dhuri,shreya@example.com,2024-08-02 03:03:20,Refactor code,2,3,24,https://github.com/user/repo/commit/944b8f096278b846c54aeb6870fc11d79c98def5
+92,ab6d56f081792098c02cb5ebc345495f2ed1e9fd,Alice Johnson,alice@example.com,2025-03-26 10:03:20,Fix typo,2,29,44,https://github.com/user/repo/commit/ab6d56f081792098c02cb5ebc345495f2ed1e9fd
+93,3f0f1b7c08f67523cca78aba5a924bdd6acfdd99,Shreya Dhuri,shreya@example.com,2024-08-13 01:03:20,Add user authentication,5,33,31,https://github.com/user/repo/commit/3f0f1b7c08f67523cca78aba5a924bdd6acfdd99
+94,3a971c11947890687f3c5f4e91c2dc69da3619ce,Alice Johnson,alice@example.com,2025-03-17 04:03:20,Refactor code,5,15,34,https://github.com/user/repo/commit/3a971c11947890687f3c5f4e91c2dc69da3619ce
+95,012b24a1f8dd34ad455f05ad75e23e29ae34a0b0,Shreya Dhuri,shreya@example.com,2025-07-08 22:03:20,Add user authentication,1,23,29,https://github.com/user/repo/commit/012b24a1f8dd34ad455f05ad75e23e29ae34a0b0
+96,a5e884b9f8e96f55bb49187fb94b9ecd63bfd9d5,John Smith,john@example.com,2025-04-04 15:03:20,Fix bug in login,2,51,2,https://github.com/user/repo/commit/a5e884b9f8e96f55bb49187fb94b9ecd63bfd9d5
+97,f2fa02118676703ba8ad8f79eebfb460b8fa75ea,Shreya Dhuri,shreya@example.com,2025-02-04 19:03:20,Initial commit,1,26,2,https://github.com/user/repo/commit/f2fa02118676703ba8ad8f79eebfb460b8fa75ea
+98,eb7addea367eaae202e705f1d6db668b826a85ef,Nina Patel,nina@example.com,2025-06-29 07:03:20,Improve performance,3,82,4,https://github.com/user/repo/commit/eb7addea367eaae202e705f1d6db668b826a85ef
+99,0d2709cc29e2c80e88c07dc88327209823dd8d84,John Smith,john@example.com,2024-10-26 12:03:20,Fix bug in login,4,93,25,https://github.com/user/repo/commit/0d2709cc29e2c80e88c07dc88327209823dd8d84
+100,0e5d3b5b478220f3e577f31236db1793b58b8c14,John Smith,john@example.com,2024-11-09 10:03:20,Optimize imports,1,36,23,https://github.com/user/repo/commit/0e5d3b5b478220f3e577f31236db1793b58b8c14
+101,22a3e9cee48de92a96feed3a2ef4c9f0515c47c5,Bob Lee,bob@example.com,2025-01-19 14:03:20,Update README,5,28,3,https://github.com/user/repo/commit/22a3e9cee48de92a96feed3a2ef4c9f0515c47c5
+102,9ea7c0dc9a9a6392a8b6d47082955dde9f994e93,John Smith,john@example.com,2025-01-07 00:03:20,Improve performance,5,9,1,https://github.com/user/repo/commit/9ea7c0dc9a9a6392a8b6d47082955dde9f994e93
+103,3aee56d02c2466e409a5a88e492508df65b1abd5,Nina Patel,nina@example.com,2025-06-01 08:03:20,Fix bug in login,5,90,7,https://github.com/user/repo/commit/3aee56d02c2466e409a5a88e492508df65b1abd5
+104,324277f37d0a31f63db8390d5a9630ab71bf2673,Nina Patel,nina@example.com,2024-11-12 19:03:20,Optimize imports,2,90,5,https://github.com/user/repo/commit/324277f37d0a31f63db8390d5a9630ab71bf2673
+105,f58d2e12b6f3cd2b2381cf859abc54f126ec67c7,Nina Patel,nina@example.com,2025-06-12 13:03:20,Improve performance,5,4,19,https://github.com/user/repo/commit/f58d2e12b6f3cd2b2381cf859abc54f126ec67c7
+106,87213130a5e9edbb65ef70610f4605d0ef2dd155,Bob Lee,bob@example.com,2025-06-28 15:03:20,Initial commit,5,96,12,https://github.com/user/repo/commit/87213130a5e9edbb65ef70610f4605d0ef2dd155
+107,e93f5c94409985d082ed625f6d6a518350a6a12f,Bob Lee,bob@example.com,2025-03-11 06:03:20,Add user authentication,3,28,16,https://github.com/user/repo/commit/e93f5c94409985d082ed625f6d6a518350a6a12f
+108,82af47c4130c0b5e065f7eede24e23a733cda4fe,Bob Lee,bob@example.com,2025-06-08 23:03:20,Refactor code,2,11,16,https://github.com/user/repo/commit/82af47c4130c0b5e065f7eede24e23a733cda4fe
+109,f64b758103d35247eb65b2872d750c58be534a65,John Smith,john@example.com,2024-10-01 01:03:20,Add comments,2,20,44,https://github.com/user/repo/commit/f64b758103d35247eb65b2872d750c58be534a65
+110,00476b6f3f0d6e6d021c69e78c9c1f85cd8e0fc0,Bob Lee,bob@example.com,2025-03-06 15:03:20,Update README,1,23,48,https://github.com/user/repo/commit/00476b6f3f0d6e6d021c69e78c9c1f85cd8e0fc0
+111,2675d43abedff3c07731d24a03c62f3559873cf5,Alice Johnson,alice@example.com,2025-06-26 16:03:20,Add user authentication,1,71,50,https://github.com/user/repo/commit/2675d43abedff3c07731d24a03c62f3559873cf5
+112,58e3ae8a8b4f24579f2cd095f626a7d1cae3f8c9,Nina Patel,nina@example.com,2025-02-24 10:03:20,Remove deprecated code,5,75,48,https://github.com/user/repo/commit/58e3ae8a8b4f24579f2cd095f626a7d1cae3f8c9
+113,20b4be3feb25642f0c876e42cff45ffed885064a,Shreya Dhuri,shreya@example.com,2025-03-07 06:03:20,Refactor code,3,74,7,https://github.com/user/repo/commit/20b4be3feb25642f0c876e42cff45ffed885064a
+114,acbc16906cf0db46c6cc05b9f676cb18e6ecc730,Nina Patel,nina@example.com,2024-11-21 23:03:20,Fix typo,3,71,18,https://github.com/user/repo/commit/acbc16906cf0db46c6cc05b9f676cb18e6ecc730
+115,43bd1441fe47716b336a10bc802c36b0bcae5dcf,Alice Johnson,alice@example.com,2025-04-27 20:03:20,Refactor code,4,97,48,https://github.com/user/repo/commit/43bd1441fe47716b336a10bc802c36b0bcae5dcf
+116,2876481136bb6dcbe8031d647b0113b7d8e4ad56,Shreya Dhuri,shreya@example.com,2025-01-28 05:03:20,Update README,5,55,29,https://github.com/user/repo/commit/2876481136bb6dcbe8031d647b0113b7d8e4ad56
+117,4fa3569d364c3f34780ff4d0c158dc23c96b683b,Bob Lee,bob@example.com,2024-12-29 05:03:20,Refactor code,1,8,47,https://github.com/user/repo/commit/4fa3569d364c3f34780ff4d0c158dc23c96b683b
+118,87b63784bcc85cd7bc61d6d0105222ab2730294a,Shreya Dhuri,shreya@example.com,2024-11-15 13:03:20,Add comments,5,17,49,https://github.com/user/repo/commit/87b63784bcc85cd7bc61d6d0105222ab2730294a
+119,16eb3b8e2b468b21f0c2d90f6b14c90d603e7504,Alice Johnson,alice@example.com,2024-11-01 03:03:20,Initial commit,2,39,17,https://github.com/user/repo/commit/16eb3b8e2b468b21f0c2d90f6b14c90d603e7504
+120,2c6089e2938bd5163fbfd2fcd5208d17aa10bb57,Nina Patel,nina@example.com,2025-05-16 11:03:20,Add comments,3,67,42,https://github.com/user/repo/commit/2c6089e2938bd5163fbfd2fcd5208d17aa10bb57
+121,712ee8a778277ac40747e5c35fd3a1439bec3483,Nina Patel,nina@example.com,2024-12-16 16:03:20,Update README,1,7,48,https://github.com/user/repo/commit/712ee8a778277ac40747e5c35fd3a1439bec3483
+122,8db13ba2eaa822c2a31298808f8c367c1d95c0f3,Bob Lee,bob@example.com,2024-11-24 17:03:20,Update README,2,17,28,https://github.com/user/repo/commit/8db13ba2eaa822c2a31298808f8c367c1d95c0f3
+123,f0a1e65eded59df52bbd829ad2fba54b41893bf2,Shreya Dhuri,shreya@example.com,2025-06-23 20:03:20,Optimize imports,5,82,9,https://github.com/user/repo/commit/f0a1e65eded59df52bbd829ad2fba54b41893bf2
+124,8774c49580a30a3bfe24843bea78b4c76e3b7d83,John Smith,john@example.com,2024-10-31 00:03:20,Refactor code,1,83,24,https://github.com/user/repo/commit/8774c49580a30a3bfe24843bea78b4c76e3b7d83
+125,58d736f4765f50dee9d0eac3b76360acc45feed9,Nina Patel,nina@example.com,2025-06-26 17:03:20,Remove deprecated code,1,11,47,https://github.com/user/repo/commit/58d736f4765f50dee9d0eac3b76360acc45feed9
+126,0194c4ff0555871d1cdc4b9032320cc58247eb95,Bob Lee,bob@example.com,2025-07-13 20:03:20,Add comments,2,74,44,https://github.com/user/repo/commit/0194c4ff0555871d1cdc4b9032320cc58247eb95
+127,578095a7181c5e0dbd6848e5587cc759647c45bd,Shreya Dhuri,shreya@example.com,2024-09-14 05:03:20,Update README,4,89,46,https://github.com/user/repo/commit/578095a7181c5e0dbd6848e5587cc759647c45bd
+128,e2351b0378561f202c81d15cb30dc489c9baf0c2,John Smith,john@example.com,2024-09-29 02:03:20,Optimize imports,1,94,30,https://github.com/user/repo/commit/e2351b0378561f202c81d15cb30dc489c9baf0c2
+129,ef14807ca7cdf4f1551edc5bd20358b16f23ec8a,Bob Lee,bob@example.com,2024-08-13 22:03:20,Remove deprecated code,1,57,8,https://github.com/user/repo/commit/ef14807ca7cdf4f1551edc5bd20358b16f23ec8a
+130,7f8e8da60ad396608006b8cee22927859555dfac,Nina Patel,nina@example.com,2025-06-23 01:03:20,Add user authentication,2,12,26,https://github.com/user/repo/commit/7f8e8da60ad396608006b8cee22927859555dfac
+131,3ece3a817e39d1b1009ee3920c913d69ab22f490,Shreya Dhuri,shreya@example.com,2025-03-20 20:03:20,Initial commit,3,45,7,https://github.com/user/repo/commit/3ece3a817e39d1b1009ee3920c913d69ab22f490
+132,9a9e9efe2c3690745258be8178d29e3df1d1f3f9,Nina Patel,nina@example.com,2025-01-19 21:03:20,Remove deprecated code,4,90,36,https://github.com/user/repo/commit/9a9e9efe2c3690745258be8178d29e3df1d1f3f9
+133,44cc66d5e12cd776a1057ed4701eb36efc4b6538,Nina Patel,nina@example.com,2025-03-23 11:03:20,Update README,2,11,16,https://github.com/user/repo/commit/44cc66d5e12cd776a1057ed4701eb36efc4b6538
+134,9f191f46affa8821888ab43cb4c063abf96f6745,Shreya Dhuri,shreya@example.com,2024-08-28 21:03:20,Add user authentication,2,73,43,https://github.com/user/repo/commit/9f191f46affa8821888ab43cb4c063abf96f6745
+135,2d5fa9a1bda96cfa44719a71dbe78143702a8619,Alice Johnson,alice@example.com,2024-10-27 11:03:20,Improve performance,2,40,29,https://github.com/user/repo/commit/2d5fa9a1bda96cfa44719a71dbe78143702a8619
+136,bf0ef71030c3de1e1e46725a39f03db99fa73874,Alice Johnson,alice@example.com,2024-10-15 12:03:20,Update README,1,21,40,https://github.com/user/repo/commit/bf0ef71030c3de1e1e46725a39f03db99fa73874
+137,87b90fecb6b1a10742aa88bd26aed38ff99e3b18,Shreya Dhuri,shreya@example.com,2024-08-18 21:03:20,Improve performance,2,85,48,https://github.com/user/repo/commit/87b90fecb6b1a10742aa88bd26aed38ff99e3b18
+138,a06ae6a2250e1e489b6f4da3609f41682c09b2fa,Nina Patel,nina@example.com,2024-08-16 03:03:20,Fix typo,5,55,35,https://github.com/user/repo/commit/a06ae6a2250e1e489b6f4da3609f41682c09b2fa
+139,68eecc8d9c0dfd991fac871e97ef498d1f6286c1,Shreya Dhuri,shreya@example.com,2025-01-01 08:03:20,Add comments,5,63,8,https://github.com/user/repo/commit/68eecc8d9c0dfd991fac871e97ef498d1f6286c1
+140,dbfc40ae711273cd65648d4d1e5d494ac7fbcc9e,Nina Patel,nina@example.com,2025-02-18 09:03:20,Fix bug in login,3,5,17,https://github.com/user/repo/commit/dbfc40ae711273cd65648d4d1e5d494ac7fbcc9e
+141,31a2e420a32fe15a7d2ce98e8f680c1c8c63bf7b,John Smith,john@example.com,2025-02-25 02:03:20,Add comments,3,87,50,https://github.com/user/repo/commit/31a2e420a32fe15a7d2ce98e8f680c1c8c63bf7b
+142,4d6f41207df20ff92ca8fd89d6c2c08fc994e595,Shreya Dhuri,shreya@example.com,2025-05-12 10:03:20,Fix typo,3,34,39,https://github.com/user/repo/commit/4d6f41207df20ff92ca8fd89d6c2c08fc994e595
+143,7aee63740c26238389762450d85addc493e6d01e,Alice Johnson,alice@example.com,2025-04-28 23:03:20,Optimize imports,4,0,2,https://github.com/user/repo/commit/7aee63740c26238389762450d85addc493e6d01e
+144,9c33fadb472354c491dd1bb3a96ab48f842137f8,Alice Johnson,alice@example.com,2025-05-30 10:03:20,Add user authentication,2,20,34,https://github.com/user/repo/commit/9c33fadb472354c491dd1bb3a96ab48f842137f8
+145,ad91c51c39a673e9d577c51777dd0f5ddda18aa8,Nina Patel,nina@example.com,2025-04-07 12:03:20,Improve performance,4,19,32,https://github.com/user/repo/commit/ad91c51c39a673e9d577c51777dd0f5ddda18aa8
+146,c3505eaff4b821bad39bbc140c23956c2832b4c0,Nina Patel,nina@example.com,2025-01-11 20:03:20,Optimize imports,3,79,5,https://github.com/user/repo/commit/c3505eaff4b821bad39bbc140c23956c2832b4c0
+147,fd0895b3ea63e70fc8f91d3a0be437460bcc4004,Nina Patel,nina@example.com,2025-04-30 23:03:20,Update README,1,92,16,https://github.com/user/repo/commit/fd0895b3ea63e70fc8f91d3a0be437460bcc4004
+148,6f17558c8e9d37fd3d8425835e0bb2ced4fa70f8,Bob Lee,bob@example.com,2024-08-07 22:03:20,Add comments,2,99,0,https://github.com/user/repo/commit/6f17558c8e9d37fd3d8425835e0bb2ced4fa70f8
+149,598745b88618244b6504ac1c16bd3b39eb03396c,John Smith,john@example.com,2024-12-08 09:03:20,Fix typo,3,20,34,https://github.com/user/repo/commit/598745b88618244b6504ac1c16bd3b39eb03396c
+150,8e9030acba473547b40446f2610641edf99c749e,Alice Johnson,alice@example.com,2025-05-29 18:03:20,Remove deprecated code,5,26,25,https://github.com/user/repo/commit/8e9030acba473547b40446f2610641edf99c749e
+151,aec1a5c08cbda2694039970777e72505601e9188,Shreya Dhuri,shreya@example.com,2025-06-29 11:03:20,Refactor code,1,83,36,https://github.com/user/repo/commit/aec1a5c08cbda2694039970777e72505601e9188
+152,b3d8440ee837ef58622cfc6d8fc702fb0e0a66ce,Shreya Dhuri,shreya@example.com,2024-08-19 09:03:20,Fix bug in login,3,24,48,https://github.com/user/repo/commit/b3d8440ee837ef58622cfc6d8fc702fb0e0a66ce
+153,520901610777358e710c8a38ab907812d5424dc1,John Smith,john@example.com,2025-01-22 21:03:20,Add comments,2,32,20,https://github.com/user/repo/commit/520901610777358e710c8a38ab907812d5424dc1
+154,01489a369deb568f5fc4e759af23a4e8418fcfc8,Bob Lee,bob@example.com,2025-07-29 02:03:20,Add comments,2,3,50,https://github.com/user/repo/commit/01489a369deb568f5fc4e759af23a4e8418fcfc8
+155,3f56c4da3fd6d768e47decd768d5d57b272ae824,Shreya Dhuri,shreya@example.com,2025-02-22 08:03:20,Add user authentication,1,63,18,https://github.com/user/repo/commit/3f56c4da3fd6d768e47decd768d5d57b272ae824
+156,afe2e0bfad071f2e0da5710bab85168029b8a630,Bob Lee,bob@example.com,2025-03-26 08:03:20,Update README,1,21,47,https://github.com/user/repo/commit/afe2e0bfad071f2e0da5710bab85168029b8a630
+157,347a5d86fd5dd68c8a66a0149cec908d8da79b2d,John Smith,john@example.com,2025-07-20 15:03:20,Fix bug in login,4,76,4,https://github.com/user/repo/commit/347a5d86fd5dd68c8a66a0149cec908d8da79b2d
+158,8cba5237c3ac886eedc21855e75838e67043685b,Alice Johnson,alice@example.com,2025-06-27 01:03:20,Add comments,1,65,39,https://github.com/user/repo/commit/8cba5237c3ac886eedc21855e75838e67043685b
+159,d5f0b7bdfc47f3e8388e0a2140d776b9dd24e9ed,John Smith,john@example.com,2024-09-28 08:03:20,Add user authentication,4,19,8,https://github.com/user/repo/commit/d5f0b7bdfc47f3e8388e0a2140d776b9dd24e9ed
+160,5bdc3e687af32887972f5e8fdb075902ef126285,Bob Lee,bob@example.com,2024-09-21 14:03:20,Improve performance,5,89,5,https://github.com/user/repo/commit/5bdc3e687af32887972f5e8fdb075902ef126285
+161,b4b676e6d241c78b2c26309d759b8aa7a57efbde,Shreya Dhuri,shreya@example.com,2025-04-09 00:03:20,Optimize imports,5,11,38,https://github.com/user/repo/commit/b4b676e6d241c78b2c26309d759b8aa7a57efbde
+162,0c8f3eb60005c4a2bc37852ef45c2476707f65b4,Shreya Dhuri,shreya@example.com,2024-12-18 02:03:20,Refactor code,4,3,28,https://github.com/user/repo/commit/0c8f3eb60005c4a2bc37852ef45c2476707f65b4
+163,551c99f82f5989a3a228c1f5fd6236eef291c1f3,Nina Patel,nina@example.com,2025-02-05 14:03:20,Remove deprecated code,5,11,32,https://github.com/user/repo/commit/551c99f82f5989a3a228c1f5fd6236eef291c1f3
+164,100ababb037f09079cc185211b0fa0e1e09afade,John Smith,john@example.com,2024-11-10 02:03:20,Update README,5,90,48,https://github.com/user/repo/commit/100ababb037f09079cc185211b0fa0e1e09afade
+165,3f9f9ab923fe037ef95aab7a3b3a533aedc2ea18,Alice Johnson,alice@example.com,2024-12-25 17:03:20,Add user authentication,3,69,35,https://github.com/user/repo/commit/3f9f9ab923fe037ef95aab7a3b3a533aedc2ea18
+166,49a736f7f7e6fe9db2a41cf9a9e81b03f375a11b,John Smith,john@example.com,2024-11-01 01:03:20,Initial commit,3,17,1,https://github.com/user/repo/commit/49a736f7f7e6fe9db2a41cf9a9e81b03f375a11b
+167,2a851f7404269f14e385ad6e2331deead67628d3,Alice Johnson,alice@example.com,2024-11-04 06:03:20,Improve performance,5,51,38,https://github.com/user/repo/commit/2a851f7404269f14e385ad6e2331deead67628d3
+168,d72bfb6f0da7a116b91e363d0f6da11e472357c8,Shreya Dhuri,shreya@example.com,2025-04-24 21:03:20,Update README,2,78,41,https://github.com/user/repo/commit/d72bfb6f0da7a116b91e363d0f6da11e472357c8
+169,794f4011ac158c4137be2d09dc558b261bf01289,Nina Patel,nina@example.com,2024-12-26 08:03:20,Add user authentication,2,48,39,https://github.com/user/repo/commit/794f4011ac158c4137be2d09dc558b261bf01289
+170,8914145133e9d925ca8839b2f459ab4485ada698,Shreya Dhuri,shreya@example.com,2025-03-15 14:03:20,Add user authentication,3,67,38,https://github.com/user/repo/commit/8914145133e9d925ca8839b2f459ab4485ada698
+171,50190d14c6c2d3816e2e2d0a1039da7a5832970a,Alice Johnson,alice@example.com,2025-07-18 19:03:20,Update README,3,2,19,https://github.com/user/repo/commit/50190d14c6c2d3816e2e2d0a1039da7a5832970a
+172,ed518d1e2844f92ffed05743b164cbeb780b5152,Nina Patel,nina@example.com,2024-11-27 03:03:20,Fix bug in login,1,69,44,https://github.com/user/repo/commit/ed518d1e2844f92ffed05743b164cbeb780b5152
+173,10b21e935691ed3be9abd36213112b0c58f3b992,Nina Patel,nina@example.com,2025-05-15 20:03:20,Add user authentication,4,74,3,https://github.com/user/repo/commit/10b21e935691ed3be9abd36213112b0c58f3b992
+174,22c9cbdb35cf98fd373ebd106ef86c5770febe0f,Bob Lee,bob@example.com,2025-06-25 11:03:20,Remove deprecated code,3,36,34,https://github.com/user/repo/commit/22c9cbdb35cf98fd373ebd106ef86c5770febe0f
+175,f764fd515bebd5167b0d6c90dd17e3ae460f6544,John Smith,john@example.com,2025-04-08 20:03:20,Fix typo,1,56,39,https://github.com/user/repo/commit/f764fd515bebd5167b0d6c90dd17e3ae460f6544
+176,f30a5189a3f99642a28bc4e12387533f76273ebe,John Smith,john@example.com,2024-11-24 05:03:20,Update README,2,14,20,https://github.com/user/repo/commit/f30a5189a3f99642a28bc4e12387533f76273ebe
+177,491b43148711a9c7b96c86f647453c78a96ea782,Alice Johnson,alice@example.com,2024-09-19 11:03:20,Initial commit,3,85,35,https://github.com/user/repo/commit/491b43148711a9c7b96c86f647453c78a96ea782
+178,d708a2f65cebfbac181f56e515be844e968f6809,Bob Lee,bob@example.com,2025-01-03 15:03:20,Optimize imports,4,48,8,https://github.com/user/repo/commit/d708a2f65cebfbac181f56e515be844e968f6809
+179,a1919bee4e2551694efcf17a9b8fbda3c0f2d719,John Smith,john@example.com,2025-04-22 08:03:20,Optimize imports,3,82,18,https://github.com/user/repo/commit/a1919bee4e2551694efcf17a9b8fbda3c0f2d719
+180,05c592946dc43d17a209aac860860d61a83a695c,Bob Lee,bob@example.com,2025-02-25 02:03:20,Fix bug in login,1,15,31,https://github.com/user/repo/commit/05c592946dc43d17a209aac860860d61a83a695c
+181,f2fff4dd8d550111cd4d644bbf95ffcde855bc79,John Smith,john@example.com,2025-03-26 07:03:20,Add user authentication,2,31,23,https://github.com/user/repo/commit/f2fff4dd8d550111cd4d644bbf95ffcde855bc79
+182,8f8f1beafe7c856110a088d186db41d363d76cb1,Alice Johnson,alice@example.com,2024-11-06 01:03:20,Initial commit,3,99,20,https://github.com/user/repo/commit/8f8f1beafe7c856110a088d186db41d363d76cb1
+183,99704386a65649a85e32c6bf2386f13e28cce3b8,Shreya Dhuri,shreya@example.com,2025-07-11 05:03:20,Update README,3,33,41,https://github.com/user/repo/commit/99704386a65649a85e32c6bf2386f13e28cce3b8
+184,899d606de4f362e8fd7e73ce9d31a13fd9f17830,John Smith,john@example.com,2025-03-16 02:03:20,Initial commit,5,71,11,https://github.com/user/repo/commit/899d606de4f362e8fd7e73ce9d31a13fd9f17830
+185,5867350dd6999d2ebf539f767b3f25b1f5ca7b5d,Shreya Dhuri,shreya@example.com,2024-09-05 20:03:20,Optimize imports,1,2,33,https://github.com/user/repo/commit/5867350dd6999d2ebf539f767b3f25b1f5ca7b5d
+186,8bd328935af82dbaa590941f4a18aab4070f0b0e,Alice Johnson,alice@example.com,2025-06-07 00:03:20,Fix typo,1,91,26,https://github.com/user/repo/commit/8bd328935af82dbaa590941f4a18aab4070f0b0e
+187,8dda94d34012109a2c37f4f0ceb3361751ef4b30,Alice Johnson,alice@example.com,2025-02-05 06:03:20,Improve performance,3,76,9,https://github.com/user/repo/commit/8dda94d34012109a2c37f4f0ceb3361751ef4b30
+188,d726987073e08d35d08bffe3347b6bb0328a4004,Alice Johnson,alice@example.com,2024-09-23 01:03:20,Fix typo,2,56,48,https://github.com/user/repo/commit/d726987073e08d35d08bffe3347b6bb0328a4004
+189,96bd8dd6a80100022605f78862fe692841aabf73,Nina Patel,nina@example.com,2024-08-30 05:03:20,Add user authentication,3,97,17,https://github.com/user/repo/commit/96bd8dd6a80100022605f78862fe692841aabf73
+190,48da5e371d1bea48b72eb11b2e22f7ab112cb61f,John Smith,john@example.com,2025-04-24 23:03:20,Add user authentication,2,15,11,https://github.com/user/repo/commit/48da5e371d1bea48b72eb11b2e22f7ab112cb61f
+191,c9b0e9ebf059e82ac340e2e93d0bda92b40aa701,Nina Patel,nina@example.com,2025-07-24 18:03:20,Fix bug in login,5,93,50,https://github.com/user/repo/commit/c9b0e9ebf059e82ac340e2e93d0bda92b40aa701
+192,beff71420c9a6364de9ff5a9f42aa093671502bc,Alice Johnson,alice@example.com,2024-10-10 15:03:20,Add user authentication,1,5,38,https://github.com/user/repo/commit/beff71420c9a6364de9ff5a9f42aa093671502bc
+193,3fa466faf73905d88ac70afa94f7bbab210b59ff,John Smith,john@example.com,2025-07-21 23:03:20,Refactor code,4,5,5,https://github.com/user/repo/commit/3fa466faf73905d88ac70afa94f7bbab210b59ff
+194,701c9ba66ec69697f8895eb949eef0a9647b8622,John Smith,john@example.com,2025-04-29 17:03:20,Remove deprecated code,1,58,18,https://github.com/user/repo/commit/701c9ba66ec69697f8895eb949eef0a9647b8622
+195,c914a11bf81965eb818f8870bf77ac445df316ee,Alice Johnson,alice@example.com,2025-03-29 05:03:20,Remove deprecated code,2,57,1,https://github.com/user/repo/commit/c914a11bf81965eb818f8870bf77ac445df316ee
+196,c4f83f9bad65447eb5ef82565b7cca6a9f27f1e9,Nina Patel,nina@example.com,2025-05-28 17:03:20,Remove deprecated code,2,11,5,https://github.com/user/repo/commit/c4f83f9bad65447eb5ef82565b7cca6a9f27f1e9
+197,a332b4a9c1d4edf4a79f1334b4253cc9d1459754,Bob Lee,bob@example.com,2024-11-10 13:03:20,Add comments,5,32,1,https://github.com/user/repo/commit/a332b4a9c1d4edf4a79f1334b4253cc9d1459754
+198,37c0ecbfd6ba8fd2bc6c0329ef9dc8c16c465577,Alice Johnson,alice@example.com,2024-08-28 08:03:20,Add comments,2,14,43,https://github.com/user/repo/commit/37c0ecbfd6ba8fd2bc6c0329ef9dc8c16c465577
+199,17c59bd4c4d985a25f2b041042a301d76514e8ab,John Smith,john@example.com,2024-09-05 14:03:20,Initial commit,5,42,49,https://github.com/user/repo/commit/17c59bd4c4d985a25f2b041042a301d76514e8ab
+200,ba6d8bc7fc7d2c368ddadf4dea3ae3b391930eb9,Bob Lee,bob@example.com,2025-04-04 20:03:20,Refactor code,5,16,37,https://github.com/user/repo/commit/ba6d8bc7fc7d2c368ddadf4dea3ae3b391930eb9
